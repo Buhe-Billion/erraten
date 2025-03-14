@@ -1,6 +1,6 @@
-use std::io;
+use std::{io, cmp::Ordering};
 use rand::Rng;
-use std::cmp::Ordering;
+
 
 fn
 main
